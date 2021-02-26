@@ -1,0 +1,25 @@
+.idea
+.vscode
+.DS_Store
+*.exe
+*.log
+
+# 运行时
+attachments
+runtime
+static.d
+
+# hello
+srv_hello/.idea
+srv_hello/.vscode
+srv_hello/.DS_Store
+srv_hello/test.go
+
+# main
+main
+
+# 测试文件
+test.go
+
+# cmd
+push.sh
